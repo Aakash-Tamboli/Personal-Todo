@@ -15,3 +15,12 @@ th, td {
 th {
     background-color: #f2f2f2; /* Optional: add background color for headers */
 }
+
+a {
+    color: blue; /* Change this to your desired color */
+    text-decoration: none; /* Optional: removes underline */
+}
+
+a:visited {
+    color: blue; /* Same color as unvisited */
+}
